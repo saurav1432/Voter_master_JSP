@@ -1,5 +1,5 @@
-# saurav1432_project_Voter_master
 
+<center><h2>Voter Master</h2></center>
 <h2>Synopsis</h2>: 
 to manage the records and operations online for easing the task of survey
 
